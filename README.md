@@ -8,14 +8,9 @@
   - [Gamma Portal](https://gammaportal.xyz/#/)
   - [Opyn Analytics](https://opyn-dashboard-2.netlify.app/dashboards/default)
   - [Opyn Developer Kit](https://medium.com/opyn/introducing-opyn-developer-toolkit-2bfd5bcc7a92)
-  - Squeeth (ETH^2)
-    - [Intro to Squeeth](https://twitter.com/wadepros/status/1444690047639461893)
-    - [Crab Strategy](https://twitter.com/wadepros/status/1476973710150152194)
-    - [Understanding Perpetual Vaults in DeFi: Options Strategies](https://medium.com/opyn/understanding-perpetual-vaults-in-defi-structured-products-with-underlying-options-strategies-27610254475e)
-    - [Squeeth insides volume 1: funding and volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
 - [Hegic](https://www.hegic.co/) - Options with a liquidity pool
   - [Trade on v888](https://www.hegic.co/app.html)
-  - [Trade on v1]((https://old.hegic.co/)
+  - [Trade on v1](https://old.hegic.co/)
   - [v888 Whitepaper](https://www.hegic.co/assets/img/f833742b60c73b71520647d2594733b8.pdf)
   - [v1 Whitepaper](https://github.com/hegic/whitepaper/blob/master/Hegic%20Protocol%20Whitepaper.pdf)
   - [Whiteheart](https://www.whiteheart.finance/#/) - Onchain Hedging contracts using hegic
@@ -56,58 +51,188 @@ Without Oracles
   - [Trade](https://trade.psyoptions.io/#/)
   - [Docs](https://docs.psyoptions.io/)
 
-#### Futures
-
 #### Perpetuals
 ##### Swaps
-- zeta
-- dydx
-- perpetual protocol
-- derivadex
-- futureswap
-- kine
-- mango
-- drift
-- hubble
+- [Zeta](https://zeta.markets/) - Solana options and futures exchange
+  - [Trade](https://devnet.zeta.markets/)
+  - [Docs](https://zetamarkets.gitbook.io/zeta/zeta-protocol/margin-system)
+    - [The OMM](https://zetamarkets.gitbook.io/zeta/zeta-protocol-faq/faq/how-to-compete-with-the-options-mm-omm)
+  - [Fuze SDK](https://github.com/zetamarkets/fuze)
+- [DyDx](https://dydx.exchange/) - Perpetual Contracts on StarkWare
+  - [Trade](https://trade.dydx.exchange/portfolio/overview)
+  - [Docs](https://docs.dydx.exchange/)
+  - [Dashboard](https://dydx.community/dashboard)
+- [Perpetual Protocol](https://www.perp.com/) - Arbitrum and Optimism Perpetual contracts
+  - [Trade](https://perp.exchange/t/BTC:USDC)
+    - [Trade on V2](https://app.perp.com/)
+  - [Docs](https://docs.perp.fi/sdk-documentation/smart-contract-javascript-dev-guide)
+    - [Litepaper](https://docs.perp.fi/library/litepaper)
+    - [Deep dive into vAMM](https://blog.perp.fi/a-deep-dive-into-our-virtual-amm-vamm-40345c522eeb?gi=332f4b34043)
+    - [Perp V2 (Curie) Technical Details](https://docs.google.com/document/d/e/2PACX-1vRDdN03IvJFRMLolxBl4Np7OpzmniMXmJO0zQJNmndD1vL3YZ46bVgTc9VTy8KdCD4ZrnwYz7agbJJN/pub)
+    - [V2 (Curie) Docs](https://v2docs.perp.fi/)
+- [DerivaDEX](https://derivadex.com/) - DEX for trading derivatives
+    - [Beta Trade](https://beta.derivadex.io/welcome)
+- [FutureSwap](https://www.futureswap.com/) - Perpetuals trading pools
+    - [Trade](https://app.futureswap.com/trade/ETH-USDC)
+    - [Docs](https://docs.futureswap.com/)
+- [Kine Protocol](https://kine.io/) - Peer to Peer derivative trading
+  - [Trade](https://kine.finance/staking)
+  - [Docs](https://docs.kine.io/)
+  - [Dashboard](https://www.kine.vc/dashboard)
+  - [Trade NFTs](https://nft.kine.vc/#/home?lang=en)
+- [Mango](https://mango.markets/) - Solana lending, spot and perpetuals trading
+  - [Trade](https://trade.mango.markets/)
+  - [Docs](https://docs.mango.markets/)
+  - [Dashboard](https://trade.mango.markets/stats)
+- [Drift](https://www.drift.trade/) - Solana perpetual trading based on a vAMM
+  - [Trade](https://app.drift.trade/)
+  - [Docs](https://docs.drift.trade/)
+  - [Dashboard](https://app.drift.trade/stats)
+- [Hubble Exchange](https://hubble.exchange/) - Avalanche perpetual trading based on a vAMM with dynamic repegging
+  - [Trade](https://milkyway.hubble.exchange/?ref=hubble.exchange)
+  - [Whitepaper](https://docs.google.com/document/d/1v8V56_M30dyEbnCaUkEH18_S7YeApkNZin1NM8suPsQ/edit)
+- [Tracer](https://tracer.finance/) - Perpetual derivative pools
+  - [Trade](https://pools.tracer.finance/)
+  - [Docs](https://docs.tracer.finance/)
+- [Injective](https://injectiveprotocol.com/) - Trade perpetual contracts
+  - [Trade](https://injective.exchange/derivatives/btc-usdt-perp)
+  - [Docs](https://chain.injective.network/)
+- [Deri Protocol](https://deri.finance/#/index) - Perpetual futures and everlasting options
+  - [Trade](https://app.deri.finance/#/trade/futures)
+  - [Docs](https://docs.deri.finance/)
+  - [Whitepaper](https://docs.deri.finance/whitepaper)
 
 ##### Options
-- 01 protocol
-- opyn
+- [01 protocol](https://01.xyz/) - Solana everlasting options
+  - [Trade](https://devnet.01protocol.com/)
+  - [Everlasting Options](https://01protocol.medium.com/01s-everlasting-options-6d918d461a84)
+  - [Binary Options](https://01protocol.medium.com/01s-binary-options-amm-d09db053e235)
+- [Opyn](https://opyn.co/)
+  - Squeeth (ETH^2)
+    - [Intro to Squeeth](https://twitter.com/wadepros/status/1444690047639461893)
+    - [Crab Strategy](https://twitter.com/wadepros/status/1476973710150152194)
+    - [Understanding Perpetual Vaults in DeFi: Options Strategies](https://medium.com/opyn/understanding-perpetual-vaults-in-defi-structured-products-with-underlying-options-strategies-27610254475e)
+    - [Squeeth insides volume 1: funding and volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
 
-#### Interest Rate Swaps
-- pendle
-- element
+#### Composable Yield
+- [Pendle](https://pendle.finance/) - Trade and hedge future income
+  - [Trade](https://app.pendle.finance/market)
+  - [Docs](https://docs.pendle.finance/)
+  - [Yield token capital efficiency](https://medium.com/pendle/yt-capital-efficiency-bc447366d38b)
+  - [Locking Yield with Pendle — Case Study #1](https://medium.com/pendle/guaranteeing-yield-with-pendle-case-study-1-e32c169d1b75), [Locking Swap Fees — Case Study #2](https://medium.com/pendle/locking-swap-fees-case-study-2-3cba9730e028)
+  - [Pendle — Base Use Cases & Strategies](https://medium.com/pendle/pendle-base-use-cases-strategies-f7d6447ada62)
+  - [Pendle AMM](https://medium.com/pendle/pendle-amm-a-closer-look-1364aee5105d)
+- [Element](https://www.element.fi/) - Fixed rate lending protocol
+  - [Trade](https://app.element.fi/fixedrates)
+  - [Docs](https://docs.element.fi/)
+  - [Whitepaper](https://paper.element.fi//)
+  - [The Automated Fixed Rate Rebalancer](https://medium.com/element-finance/the-automated-fixed-rate-rebalancer-1bf78010dce9)
+  - [De-Collateralize, an Alternative to Collateral Backed Loans](https://medium.com/element-finance/de-collateralize-an-alternative-to-collateral-backed-loans-b4a7eb49f00)
+  - [Component Yield Token Compounding](https://medium.com/element-finance/component-launches-yield-token-compounding-tool-built-on-element-finance-ea6da04bdf98)
+- [Prism](https://prismfinance.app/) - Split digital assets into yield and principal components
+  - [Whitepaper](https://prismfinance.app/PRISM-litepaper.pdf)
 
 #### Structured Products
-- antimatter
-- UXD
-- Lemma
+- [Antimatter](https://antimatter.finance/) - Principal protected structured products
+  - [Trade](https://app.antimatter.finance/#/option_trading)
+  - [Docs](https://docs.antimatter.finance/disclaimer/notice-and-disclaimer)
+- [UXD](https://uxd.fi/) - Algorithmic stablecoin backed by delta neutral positions on Solana
+  - [Trade](https://app.uxd.fi/)
+  - [Docs](https://docs.uxd.fi/uxdprotocol/)
+- [Lemma](https://www.lemma.finance/) - Basis trading protocol
+  - [Trade](https://www.lemma.finance/earn)
+  - [Docs](https://docs.lemma.finance/)
 
 ##### Option Vaults
-- Ribbon
-- Friktion
-- Thetanuts
-- StakeDAO
-- Katana
+- [Ribbon](https://ribbon.finance/) - Option vault structured product protocol
+  - [Trade](https://app.ribbon.finance/)
+  - [Docs](https://docs.ribbon.finance/)
+- [Friktion](https://friktion.fi/) - Option vaults on Solana
+  - [Trade](https://app.friktion.fi/)
+  - [Docs](https://docs.friktion.fi/friktion-finance/)
+- [Thetanuts](https://thetanuts.finance/) - Option Vaults for long tail assets
+  - [Trade](https://thetanuts.finance/vaults)
+  - [Docs](https://thetanuts.gitbook.io/thetanuts/)
+- [StakeDAO](https://stakedao.org/) - Portfolio manager with option vaults
+  - [Trade](https://app.stakedao.org/)
+  - [Docs](https://stakedao.gitbook.io/stakedaohq/)
+- [Katana](https://katana.so/) - Yield generation protocol for Solana
+  - [Trade](https://app.katana.so/vaults)
+  - [Docs](https://docs.katana.so/overview/introduction-to-katana)
 
 #### Staking Derivatives
-- lido
-- metapool
-- marinade
-- stakewise
-- rocketpool
-- Solana native stake pool https://spl.solana.com/stake-pool
+- [Lido](https://lido.fi/) - Liquidity for staked assets
+  - [Trade](https://stake.lido.fi/)
+  - [Docs](https://docs.lido.fi/)
+  - [Dashboard](https://dune.xyz/LidoAnalytical/Lido-Finance-Extended)
+- [Marinade](https://marinade.finance/) - Solana staking derivative
+  - [Trade](https://marinade.finance/app/staking)
+  - [Docs](https://docs.marinade.finance/)
+- [Stakewise](https://stakewise.io/) - ETH2 liquid staking
+  - [Trade](https://stakewise.io/app/pool)
+  - [Docs](https://docs.stakewise.io/)
+- [Rocketpool](https://rocketpool.net/) - ETH2 liquid staking
+  - [Trade](https://stake.rocketpool.net/)
+  - [Docs](https://docs.rocketpool.net/overview/)
+    - [Guides](https://docs.rocketpool.net/guides/)
+- [Solana native stake pool](https://spl.solana.com/stake-pool)
+- [Claystack](https://claystack.com/) - Liquid staking for many assets
+  - [Trade](https://app.claystack.com/)
+  - [Overview](https://blog.claystack.com/introducing-claystack-a-new-way-to-stake-crypto-e541648af3)
+
+#### NFT options and fractional shares
+##### Reading
+- [A Guide to Designing Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+- [Recurrently Issued Collectively Kept Shards](https://www.paradigm.xyz/2021/10/ricks/)
+- [Martingale Shares](https://www.paradigm.xyz/2021/09/martingale-shares/)
+- [Floor Perps](https://www.paradigm.xyz/2021/08/floor-perps/)
+
+##### Projects
+- [Floor](https://floor.xyz/) - Liquidity for NFTs
+  - [Introducing FloorDAO](https://floordao.medium.com/floordao-hello-defi-meet-nfts-f16b986ed3b7)
+- [Fraction](https://fraction.art/)
 
 #### Other
-- uma
-- barnbridge
-- volmex
-- Thales
-- kwenta
-- qilin
+- [UMA](https://umaproject.org/) - Various structured and financial products
+  - Products
+    - [Optimistic Oracle](https://umaproject.org/optimistic-oracle.html)
+    - [Long Short Tokens](https://umaproject.org/lsp.html)
+    - [Call/Put Options](https://umaproject.org/call-put.html)
+    - [Range Tokens](https://umaproject.org/range-tokens.html)
+    - [KPI Options](https://umaproject.org/kpi-options.html)
+    - [Success Tokens](https://umaproject.org/success-tokens.html)
+  - [Docs](https://docs.umaproject.org/build-walkthrough/build-process)
+- [Barnbridge](https://barnbridge.com/) - Tokenized risk protocol
+  - Products
+    - [Smart Yield Bonds](https://barnbridge.com/smart-yield/)
+    - [Smart Exposure](https://barnbridge.com/smart-exposure/)
+    - [Smart Alpha](https://barnbridge.com/smart-alpha/)
+  - [Docs](https://docs.barnbridge.com/)
+  - [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepapers)
+- [Volmex](https://volmex.finance/) - Tokenized volatility protocol
+  - [Trade](https://app.volmex.finance/)
+  - [Docs](https://docs.volmex.finance/)
+- [Thales](https://thalesmarket.io/) - Binary options trading
+  - [Trade](https://thalesmarket.io/markets)
+  - [Docs](https://docs.thales.market/)
+- [Synthetix](https://www.synthetix.io/) - Derivatives liquidity protocol
+  - [Trade](https://www.synthetix.io/synths)
+  - [Docs](https://docs.synthetix.io/)
+  - [Dashboard](https://stats.synthetix.io/)
+- [Kwenta](https://kwenta.io/) - Derivatives trading, with zero slippage powered by synthetix
+  - [Trade](https://kwenta.io/dashboard)
+  - [KIPs](https://github.com/Kwenta/KIPs)
+- [Qilin](https://qilin.fi/) - Decentralized volatility protocol
+  - [Trade](https://exchange.qilin.fi/#/)
+  - [Docs](https://docs.qilin.fi/)
+- [Synfutures](https://www.synfutures.com/) - Future trading
+  - [Trade](https://beta.synfutures.com/#/trade)
+  - [Trade NFT Futures](https://nftures.com/)
+  - [Dashboard](https://dune.xyz/bingsft/synfutures-v1)
+  - [Whitepaper](https://www.synfutures.com/synfutures-whitepaper.pdf)
+  - [Technical Paper](https://www.synfutures.com/synfutures-v1-techpaper.pdf)
 
-## Research
-
+## Selected Reading
 ### Option AMMs
 - [Single-Sided Automated Market Maker for
 European Options](https://www.pods.finance/pods_v1_whitepaper.pdf)
