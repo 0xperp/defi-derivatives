@@ -105,6 +105,26 @@ Without Oracles
   - [Trade](https://app.deri.finance/#/trade/futures)
   - [Docs](https://docs.deri.finance/)
   - [Whitepaper](https://docs.deri.finance/whitepaper)
+- [Pika](https://www.pikaprotocol.com/) - Perpetual trading on optimism
+  - [Trade](https://app.pikaprotocol.com/)
+  - [Docs](https://pikaprotocol.gitbook.io/pika-protocol)
+- [MCCDEX](https://mcdex.io/homepage/) - AMM perpetual trading with a shared liquidity model
+  - [Trade](https://app.mcdex.io/#/trade)
+  - [Docs](https://docs.mcdex.)
+    - [V3 AMM Design](https://docs.mcdex.io/protocol/amm-design)
+    - [Shared Liquidity Model](https://mcdexio.github.io/documents/en/Shared-Liquidity-AMM-of-MAI-PROTOCOL-v3.pdf)
+- [GMX](https://gmx.io/) - Arbitrum and Avalanche perpetual contracts
+  - [Trade](https://gmx.io/trade)
+  - [Docs](https://gmxio.gitbook.io/gmx/)
+  - [Leaderboard](https://www.gmx.house/p/leaderboard)
+  - [Dashboard](https://gmx.io/dashboard)
+- [Cap Finance](https://www.cap.finance/) - Perpetual contracts on arbitrum
+  - [Trade](https://www.cap.finance/#/trade)
+  - [Docs](https://docs.cap.finance/)
+  - [Whitepaper](https://docs.cap.finance/#white-papers)
+- [Anon Farm](https://docs.anon.farm/) - Permisonless perpetual contracts backed by uniswap v3 positions
+  - [Trade](https://anon.farm/)
+  - [Docs](https://docs.anon.farm/)
 
 ##### Options
 - [01 protocol](https://01.xyz/) - Solana everlasting options
@@ -128,6 +148,9 @@ Without Oracles
 - [Qilin](https://qilin.fi/) - Decentralized volatility protocol
   - [Trade](https://exchange.qilin.fi/#/)
   - [Docs](https://docs.qilin.fi/)
+- [Divergence Protocol](https://www.divergence-protocol.com/) - Trade volatility
+  - [Trade](https://beta.divergence-protocol.com/)
+  - [Docs](https://docs.divergence-protocol.com/)
 
 #### Composable Yield and Interest Rate Swaps
 - [Pendle](https://pendle.finance/) - Trade and hedge future income
@@ -250,6 +273,10 @@ Without Oracles
   - [Trade Demo](https://demo.risedle.com/)
   - [Docs](https://docs.risedle.com/)
   - [Litepaper](https://docs.risedle.com/litepaper)
+- [Overlay Protocol](https://overlay.market/) - Trade data streams
+  - [Trade](https://kovan.overlay.exchange/)
+  - [Docs](https://www.notion.so/Overlay-Protocol-29da60fd11e9436ea69e2a5e0db28a74)
+  - [Whitepaper](https://firebasestorage.googleapis.com/v0/b/overlay-landing.appspot.com/o/OverlayWPv3.pdf?alt=media)
 
 ## Selected Reading
 ### Option AMMs
