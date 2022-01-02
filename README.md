@@ -114,6 +114,18 @@ Without Oracles
     - [Understanding Perpetual Vaults in DeFi: Options Strategies](https://medium.com/opyn/understanding-perpetual-vaults-in-defi-structured-products-with-underlying-options-strategies-27610254475e)
     - [Squeeth insides volume 1: funding and volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
 
+#### Volatility
+
+- [CVI][https://cvi.finance) - Tokenized volatility protocol
+  - [Trade](https://cvi.finance/platform)
+  - [Docs](https://docs.cvi.finance/)
+- [Volmex](https://volmex.finance/) - Tokenized volatility protocol
+  - [Trade](https://app.volmex.finance/)
+  - [Docs](https://docs.volmex.finance/)
+- [Qilin](https://qilin.fi/) - Decentralized volatility protocol
+  - [Trade](https://exchange.qilin.fi/#/)
+  - [Docs](https://docs.qilin.fi/)
+
 #### Composable Yield
 - [Pendle](https://pendle.finance/) - Trade and hedge future income
   - [Trade](https://app.pendle.finance/market)
@@ -209,9 +221,6 @@ Without Oracles
     - [Smart Alpha](https://barnbridge.com/smart-alpha/)
   - [Docs](https://docs.barnbridge.com/)
   - [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepapers)
-- [Volmex](https://volmex.finance/) - Tokenized volatility protocol
-  - [Trade](https://app.volmex.finance/)
-  - [Docs](https://docs.volmex.finance/)
 - [Thales](https://thalesmarket.io/) - Binary options trading
   - [Trade](https://thalesmarket.io/markets)
   - [Docs](https://docs.thales.market/)
@@ -222,9 +231,6 @@ Without Oracles
 - [Kwenta](https://kwenta.io/) - Derivatives trading, with zero slippage powered by synthetix
   - [Trade](https://kwenta.io/dashboard)
   - [KIPs](https://github.com/Kwenta/KIPs)
-- [Qilin](https://qilin.fi/) - Decentralized volatility protocol
-  - [Trade](https://exchange.qilin.fi/#/)
-  - [Docs](https://docs.qilin.fi/)
 - [Synfutures](https://www.synfutures.com/) - Future trading
   - [Trade](https://beta.synfutures.com/#/trade)
   - [Trade NFT Futures](https://nftures.com/)
