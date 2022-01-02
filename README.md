@@ -119,7 +119,7 @@ Without Oracles
     - [Squeeth insides volume 1: funding and volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
 
 #### Volatility
-- [CVI][https://cvi.finance) - Tokenized volatility protocol
+- [CVI](https://cvi.finance) - Tokenized volatility protocol
   - [Trade](https://cvi.finance/platform)
   - [Docs](https://docs.cvi.finance/)
 - [Volmex](https://volmex.finance/) - Tokenized volatility protocol
