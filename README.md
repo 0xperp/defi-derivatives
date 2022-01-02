@@ -47,17 +47,21 @@ Without Oracles
   - [Trade](https://vega.xyz/use/)
   - [Published Papers](https://vega.xyz/background#published-papers)
   - [Research Forum](https://community.vega.xyz/c/protocol-research-and-markets/24)
+- [Lrya](https://www.lyra.finance/) - Options AMM protocol with a dynamic volatility input, on Optimism
+  - [Trade](Vhttps://app.lyra.finance/trade/eth)
+  - [Docs](https://docs.lyra.finance/)
+  - [Whitepaper](https://www.lyra.finance/files/whitepaper.pdf), good for understanding why dynamic volatility is important in an AMM
 - [PsyOptions](https://www.psyoptions.io/) - Solana american style options
   - [Trade](https://trade.psyoptions.io/#/)
   - [Docs](https://docs.psyoptions.io/)
-
-#### Perpetuals
-##### Swaps
 - [Zeta](https://zeta.markets/) - Solana options and futures exchange
   - [Trade](https://devnet.zeta.markets/)
   - [Docs](https://zetamarkets.gitbook.io/zeta/zeta-protocol/margin-system)
     - [The OMM](https://zetamarkets.gitbook.io/zeta/zeta-protocol-faq/faq/how-to-compete-with-the-options-mm-omm)
   - [Fuze SDK](https://github.com/zetamarkets/fuze)
+
+#### Perpetuals
+##### Swaps
 - [DyDx](https://dydx.exchange/) - Perpetual Contracts on StarkWare
   - [Trade](https://trade.dydx.exchange/portfolio/overview)
   - [Docs](https://docs.dydx.exchange/)
@@ -114,7 +118,7 @@ Without Oracles
     - [Understanding Perpetual Vaults in DeFi: Options Strategies](https://medium.com/opyn/understanding-perpetual-vaults-in-defi-structured-products-with-underlying-options-strategies-27610254475e)
     - [Squeeth insides volume 1: funding and volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
 
-#### Composable Yield
+#### Composable Yield and Interest Rate Swaps
 - [Pendle](https://pendle.finance/) - Trade and hedge future income
   - [Trade](https://app.pendle.finance/market)
   - [Docs](https://docs.pendle.finance/)
@@ -131,6 +135,9 @@ Without Oracles
   - [Component Yield Token Compounding](https://medium.com/element-finance/component-launches-yield-token-compounding-tool-built-on-element-finance-ea6da04bdf98)
 - [Prism](https://prismfinance.app/) - Split digital assets into yield and principal components
   - [Whitepaper](https://prismfinance.app/PRISM-litepaper.pdf)
+- [Volt](https://www.voltz.xyz/) - Interest rate swap AMM
+  - [Overview](https://medium.com/voltz/voltz-the-interest-rate-swap-amm-announces-its-6m-seed-round-led-by-framework-ventures-8f26cb09ed22)
+  - [Litepaper](https://www.voltz.xyz/litepaper)
 
 #### Structured Products
 - [Antimatter](https://antimatter.finance/) - Principal protected structured products
@@ -209,6 +216,9 @@ Without Oracles
     - [Smart Alpha](https://barnbridge.com/smart-alpha/)
   - [Docs](https://docs.barnbridge.com/)
   - [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepapers)
+- [Saffron](https://saffron.finance/) - Traunched Risk
+  - [Trade](https://app.saffron.finance/)
+  - [Docs](https://docs.saffron.finance/)
 - [Volmex](https://volmex.finance/) - Tokenized volatility protocol
   - [Trade](https://app.volmex.finance/)
   - [Docs](https://docs.volmex.finance/)
@@ -231,6 +241,10 @@ Without Oracles
   - [Dashboard](https://dune.xyz/bingsft/synfutures-v1)
   - [Whitepaper](https://www.synfutures.com/synfutures-whitepaper.pdf)
   - [Technical Paper](https://www.synfutures.com/synfutures-v1-techpaper.pdf)
+- [Risedle](https://risedle.com/) - Leveraged Tokens protocol 
+  - [Trade Demo](https://demo.risedle.com/)
+  - [Docs](https://docs.risedle.com/)
+  - [Litepaper](https://docs.risedle.com/litepaper)
 
 ## Selected Reading
 ### Option AMMs
