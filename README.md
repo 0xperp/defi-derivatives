@@ -109,6 +109,7 @@ Without Oracles
   - [Trade](https://app.deri.finance/#/trade/futures)
   - [Docs](https://docs.deri.finance/)
   - [Whitepaper](https://docs.deri.finance/whitepaper)
+    - [Whitepaper V3](https://github.com/deri-finance/whitepaper/blob/master/deri_v3_whitepaper.pdf)
 - [Pika](https://www.pikaprotocol.com/) - Perpetual trading on optimism
   - [Trade](https://app.pikaprotocol.com/)
   - [Docs](https://pikaprotocol.gitbook.io/pika-protocol)
