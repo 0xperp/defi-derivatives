@@ -14,6 +14,12 @@
   - [v888 Whitepaper](https://www.hegic.co/assets/img/f833742b60c73b71520647d2594733b8.pdf)
   - [v1 Whitepaper](https://github.com/hegic/whitepaper/blob/master/Hegic%20Protocol%20Whitepaper.pdf)
   - [Whiteheart](https://www.whiteheart.finance/#/) - Onchain Hedging contracts using hegic
+- [Hedgey](https://hedgey.finance/) - Decentralized Orderbook options protocol for any pair of tokens (primarily long tail assets), targetted at Token Treasury & Community
+  - [Create/Trade](https://app.hedgey.finance/)
+  - [Buy](https://market.hedgey.finance/)
+  - [Analytics](https://app.hedgey.finance/analytics)
+  - [Docs](https://docs.hedgey.finance)
+  - [Github](https://github.com/hedgey-finance)
 - [Dopex](https://www.dopex.io/) - Decentralized options pooled exchange on arbitrum
     - [Trade](https://app.dopex.io/ssov)
     - [Docs](https://docs.dopex.io/)
