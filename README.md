@@ -53,7 +53,7 @@ Without Oracles
   - [Trade](https://vega.xyz/use/)
   - [Published Papers](https://vega.xyz/background#published-papers)
   - [Research Forum](https://community.vega.xyz/c/protocol-research-and-markets/24)
-- [Lrya](https://www.lyra.finance/) - Options AMM protocol with a dynamic volatility input, on Optimism
+- [Lyra](https://www.lyra.finance/) - Options AMM protocol with a dynamic volatility input, on Optimism
   - [Trade](Vhttps://app.lyra.finance/trade/eth)
   - [Docs](https://docs.lyra.finance/)
   - [Whitepaper](https://www.lyra.finance/files/whitepaper.pdf), good for understanding why dynamic volatility is important in an AMM
