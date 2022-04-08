@@ -8,6 +8,9 @@
   - [Gamma Portal](https://gammaportal.xyz/#/)
   - [Opyn Analytics](https://opyn-dashboard-2.netlify.app/dashboards/default)
   - [Opyn Developer Kit](https://medium.com/opyn/introducing-opyn-developer-toolkit-2bfd5bcc7a92)
+- [Predy](https://www.predy.finance/) - Drivative AMM protocol with Power Perpetual using Portfolio Margin. Live on Arbitrum.
+  - [Trade](https://app.predy.finance/)
+  - [Doc](https://predy.gitbook.io/predy-v2-documentation/)
 - [Hegic](https://www.hegic.co/) - Options with a liquidity pool
   - [Trade on v888](https://www.hegic.co/app.html)
   - [Trade on v1](https://old.hegic.co/)
@@ -148,6 +151,8 @@ Without Oracles
     - [Crab Strategy](https://twitter.com/wadepros/status/1476973710150152194)
     - [Understanding Perpetual Vaults in DeFi: Options Strategies](https://medium.com/opyn/understanding-perpetual-vaults-in-defi-structured-products-with-underlying-options-strategies-27610254475e)
     - [Squeeth insides volume 1: funding and volatility](https://medium.com/opyn/squeeth-insides-volume-1-funding-and-volatility-f16bed146b7d)
+- [Predy](https://www.predy.finance/)
+  - [(ETH)²-Perpetual](https://predy.gitbook.io/predy-v2-documentation/predy-1/ETH2)
 
 #### Volatility
 - [CVI](https://cvi.finance) - Tokenized volatility protocol
