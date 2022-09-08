@@ -301,6 +301,7 @@ European Options](https://www.pods.finance/pods_v1_whitepaper.pdf)
 - [Hegic Whitepaper](https://github.com/hegic/whitepaper/blob/master/Hegic%20Protocol%20Whitepaper.pdf)
 - [Dynamic Curves for Decentralized Autonomous Cryptocurrency Exchanges
 ](https://arxiv.org/abs/2101.02778)
+- [A primer on perpetuals](https://t.co/bJGDXlh0nm)
 
 #### Replicating Payoffs
 - [Replicating Market Makers](https://stanford.edu/~guillean/papers/rmms.pdf)
