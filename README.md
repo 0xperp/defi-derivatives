@@ -68,9 +68,12 @@ Without Oracles
   - [Docs](https://zetamarkets.gitbook.io/zeta/zeta-protocol/margin-system)
     - [The OMM](https://zetamarkets.gitbook.io/zeta/zeta-protocol-faq/faq/how-to-compete-with-the-options-mm-omm)
   - [Fuze SDK](https://github.com/zetamarkets/fuze)
-- [Arrow](http://arrow.markets/) - Decomratize Option Market Making, Brokering, Clearing and Settlement
+- [Arrow](http://arrow.markets/) - Democratize Option Market Making, Brokering, Clearing and Settlement
   - [Trade(TestNet)](https://fuji-beta.arrow.markets/trading/)
   - [Litepaper](https://docs.arrow.markets/litepaper)
+- [Levana](https://www.levana.finance/) - American style options on Juno
+  - [Trade(TestNet)](https://options-beta.levana.finance/markets) 
+  - [Docs](https://professionallyatortoise.gitbook.io/levana-options/)
  
 
 #### Perpetuals
@@ -139,6 +142,9 @@ Without Oracles
 - [Anon Farm](https://docs.anon.farm/) - Permisonless perpetual contracts backed by uniswap v3 positions
   - [Trade](https://anon.farm/)
   - [Docs](https://docs.anon.farm/)
+- [Levana](https://www.levana.finance/) - Perpetual swaps on Osmosis
+  - [Trade(Testnet)](https://beta.levana.exchange/trade/USD_OSMO)
+  - [Docs](https://levanaexchange.zendesk.com/hc/en-us/sections/9184558330907-FAQ)
 
 ##### Options
 - [01 protocol](https://01.xyz/) - Solana everlasting options
