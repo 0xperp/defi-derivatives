@@ -3,6 +3,10 @@
 
 ## Projects
 #### Options
+- [Panoptic](https://www.panoptic.xyz/) - Decentralized Perpetual Oracle-Free Options built on top of concentrated liquidity AMMs
+  - [Whitepaper](https://arxiv.org/abs/2204.14232)
+  - [Video](https://www.youtube.com/watch?v=mtd4JphPcuA&ab_channel=ETHDenver)
+  - [Twitter](https://twitter.com/Panoptic_xyz)
 - [Opyn](https://opyn.co/) - Orderbook options protocol with power perpetuals and power perpetual strategies launching soon
   - [Trade](https://v2.opyn.co/#/)
   - [Gamma Portal](https://gammaportal.xyz/#/)
