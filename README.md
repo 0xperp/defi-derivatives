@@ -42,8 +42,11 @@ Without Oracles
   - [Docs](https://docs.premia.finance/)
   - [Premia volatility surface oracle](https://blog.premia.finance/premias-volatility-surface-oracle-b53adc259e72)
   - [Premia AMM](https://premia.finance/amm.pdf)
-- [Opium](https://opium.finance/) - Trustless derivative contracts
-  - [Docs](https://docs.opium.network/for-users/opium.finance)
+- [Opium Protocol](https://opium.network/) - Decentralized Derivatives Settlement Protocol and Infrastructure
+  - [Trade](https://opium.finance) - Automated derivative trading strategies built on protocol
+  - [Dashboard](https://opium.watch)
+  - [Docs](https://docs.opium.network/)
+  - [Github](https://github.com/OpiumProtocol)
 - [Siren](https://siren.xyz/) - Polygon derivative trading with, leverage without liquidations
   - [Trade](https://app.siren.xyz/trade/)
   - [Siren V2](https://medium.com/siren-markets/siren-v2-brings-defi-options-trading-to-polygon-a5e051795342)
