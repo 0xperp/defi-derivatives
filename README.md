@@ -263,6 +263,11 @@ Without Oracles
 - [Fraction](https://fraction.art/)
 
 #### Other
+- [Envelop](https://envelop.is/) - a flexible cross-chain tool set able to give any NFT new functionality (economic set-up, on-chain royalties, rental mechanism, time/value/event-locks), protection of devaluation and anti-fraud system.
+  - Products
+    - [Envelop wrapper](https://appv1.envelop.is/#/)
+    - [SAFT wNFT](https://saft.envelop.is/)
+  - [Docs](https://docs.envelop.is/)
 - [UMA](https://umaproject.org/) - Various structured and financial products
   - Products
     - [Optimistic Oracle](https://umaproject.org/optimistic-oracle.html)
