@@ -152,6 +152,10 @@ Without Oracles
 - [Levana](https://www.levana.finance/) - Perpetual swaps on Osmosis
   - [Trade(Testnet)](https://beta.levana.exchange/trade/USD_OSMO)
   - [Docs](https://levanaexchange.zendesk.com/hc/en-us/sections/9184558330907-FAQ)
+- [Hyperliquid](https://www.hyperliquid.xyz/) - Perpetual Contracts on Tendermint
+  - [Trade](https://app.hyperliquid.xyz/trade)
+  - [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs/)
+  - [Dashboard](https://hyperliquid.thunderhead.xyz/)
 
 ##### Options
 - [01 protocol](https://01.xyz/) - Solana everlasting options
