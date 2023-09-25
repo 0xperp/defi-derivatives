@@ -81,6 +81,9 @@ Without Oracles
 - [Levana](https://www.levana.finance/) - American style options on Juno
   - [Trade(TestNet)](https://options-beta.levana.finance/markets) 
   - [Docs](https://professionallyatortoise.gitbook.io/levana-options/)
+- [Everstrike](https://everstrike.io/) - Perpetual options with a CLOB
+  - [Trade(TestNet)](https://testnet.everstrike.io/app/funds?throwaway=true) 
+  - [Docs](https://testnet.everstrike.io/app/references)
  
 
 #### Perpetuals
